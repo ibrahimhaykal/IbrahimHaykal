@@ -1,5 +1,21 @@
-# 💫 About Me:
-Hi 👋, I'm Ibrahim Haykal Alatas<br>👨‍💻 Passionate Developer | Information Systems Student<br>I'm an enthusiastic programmer with a strong passion for web and Android development. Currently studying Information Systems at Politeknik STMI Jakarta, I specialize in creating robust applications while continuously learning and implementing new technologies.<br><br>💼 Work<br>Intern Developer at Nirmala Technology<br>Currently developing projects using Laravel and Tailwind CSS. and design on figma<br>🛠️ Skills<br>Programming Languages<br>C, C#, Java, PHP, Kotlin, XML, JavaScript<br>Frameworks & Libraries<br>Laravel, Next.js, React<br>Tailwind CSS, Bootstrap<br>Tools<br>Git & GitHub for version control<br>Figma and Canva for design and prototyping<br>📚 Projects<br>Here are some of the projects I’ve worked on during my academic journey:<br><br>Employee Attendance Program (C)<br>Scholarship Registration System (PHP)<br>Cargo Management System (PHP)<br>Bus Rental Application (PHP)<br>(A web-based bus rental service)<br>
+# 💫 About Me  
+Hi 👋, I'm **Ibrahim Haykal Alatas**  
+👨‍💻 **Developer | Information Systems Student**  
+
+I'm passionate about web and Android development, currently studying Information Systems at **Politeknik STMI Jakarta**. I enjoy building efficient, user-friendly applications and continuously exploring new technologies.  
+
+## 💼 Work Experience  
+**Intern Developer** at **Nirmala Technology**  
+- Developing projects with **Laravel** and **Tailwind CSS**  
+- Designing UI/UX using **Figma**  
+
+## 📚 Projects  
+- **Employee Attendance Program** (C)  
+- **Scholarship Registration System** (PHP)  
+- **Cargo Management System** (PHP)  
+- **Bus Rental Application** (PHP, web-based)  
+
+I strive to create impactful solutions with clean and scalable code.
 
 
 ## 🌐 Socials:
