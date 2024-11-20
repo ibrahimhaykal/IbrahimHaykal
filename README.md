@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Ibrahim+Haykal+Alatas;Welcome+to+my+GitHub+Profile!&center=true&size=30&color=5865F2">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;I'm+Ibrahim+Haykal+Alatas;&center=true&size=35&width=500&height=70&duration=4000&pause=1000">
 </h1>
 
 <h3 align="center">👨‍💻 Developer | Information Systems Student</h3>
