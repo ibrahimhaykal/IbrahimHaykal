@@ -103,7 +103,7 @@ I'm passionate about web and Android development, currently studying Information
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ibrahimhaykal&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimhaykal&theme=tokyonight" />
 </p>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimhaykal&show_icons=true&theme=tokyonight)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimhaykal&theme=tokyonight&layout=compact" />
 </p>
