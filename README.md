@@ -26,11 +26,11 @@ I'm passionate about web and Android development, currently studying Information
 - 🎨 Designing UI/UX using Figma
 
 <h2 align="center">🎯 Notable Projects</h2>
-
-- 📊 **Employee Attendance Program** `C`
-- 🎓 **Scholarship Registration System** `PHP`
-- 📦 **Cargo Management System** `PHP`
-- 🚌 **Bus Rental Application** `PHP, Web-based`
+📊 Employee Attendance Program C
+🎓 Scholarship Registration System PHP
+📦 Cargo Management System PHP
+🚌 Bus Rental Application PHP, Web-based
+🤖 EduBot: AI Chatbot for Learning Python, Streamlit
 
 <h2 align="center">💻 Technical Skills</h2>
 
