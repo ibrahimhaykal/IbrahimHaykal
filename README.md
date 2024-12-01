@@ -37,10 +37,10 @@ I'm passionate about web and Android development, currently studying Information
 
 ---
 
-<h2 align="center">💻 Technical Skills</h2>
+<h2>💻 Technical Skills</h2>
 
 <details>
-<summary align="center">🌐 Languages</summary>
+<summary>🌐 Languages</summary>
 <br>
 
 <div>
@@ -53,12 +53,13 @@ I'm passionate about web and Android development, currently studying Information
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 </div>
 </details>
 
 <details>
-<summary align="center">⚡ Frameworks & Libraries</summary>
+<summary>⚡ Frameworks & Libraries</summary>
 <br>
 
 <div>
@@ -89,7 +90,7 @@ I'm passionate about web and Android development, currently studying Information
 </details>
 
 <details>
-<summary align="center">🛠️ Tools & Platforms</summary>
+<summary>🛠️ Tools & Platforms</summary>
 <br>
 
 <div>
