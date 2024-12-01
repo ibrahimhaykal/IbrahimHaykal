@@ -37,7 +37,7 @@ I'm passionate about web and Android development, currently studying Information
 
 ---
 
-<h2>💻 Technical Skills</h2>
+<h2 align="center">💻 Technical Skills</h2>
 
 <details>
 <summary>🌐 Languages</summary>
@@ -75,10 +75,10 @@ I'm passionate about web and Android development, currently studying Information
 </details>
 
 <details>
-<summary align="center">🤖 Data Science & ML</summary>
+<summary >🤖 Data Science & ML</summary>
 <br>
 
-<div align="center">
+<div>
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
