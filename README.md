@@ -43,7 +43,7 @@ I'm passionate about web and Android development, currently studying Information
 <summary align="center">🌐 Languages</summary>
 <br>
 
-<div align="center">
+<div>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -61,7 +61,7 @@ I'm passionate about web and Android development, currently studying Information
 <summary align="center">⚡ Frameworks & Libraries</summary>
 <br>
 
-<div align="center">
+<div>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
@@ -92,7 +92,7 @@ I'm passionate about web and Android development, currently studying Information
 <summary align="center">🛠️ Tools & Platforms</summary>
 <br>
 
-<div align="center">
+<div>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
