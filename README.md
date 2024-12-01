@@ -105,11 +105,6 @@ I'm passionate about web and Android development, currently studying Information
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ibrahimhaykal&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimhaykal&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimhaykal&theme=tokyonight&layout=compact" />
 </p>
 
