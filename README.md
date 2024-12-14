@@ -33,7 +33,8 @@ I'm passionate about web and Android development, currently studying Information
 - 🎓 **Scholarship Registration System** `PHP`  
 - 📦 **Cargo Management System** `PHP`  
 - 🚌 **Bus Rental Application** `PHP, Web-based`  
-- 🤖 **EduBot: AI Chatbot for Learning** `Python, Streamlit`  
+- 🤖 **EduBot: AI Chatbot for Learning** `Python, Streamlit`
+- 🛠️ **Fender Apron Detection System** `Python, Streamlit`  
 
 ---
 
